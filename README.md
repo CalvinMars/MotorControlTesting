@@ -14,4 +14,5 @@ cd inputs
 python setup.py install
 ```
 Install Python XBee Library:
-`$ pip install digi-xbee`
+
+`pip install digi-xbee`
